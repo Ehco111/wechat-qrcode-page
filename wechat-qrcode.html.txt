@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的微信二维码</title>
+    <style>
+        body { text-align: center; padding: 20px; }
+        img { max-width: 80%; height: auto; }
+    </style>
+</head>
+<body>
+    <h2>扫码添加我的微信</h2>
+    < img src="https://i.imgur.com/OXRGDAs.png" alt="微信二维码">
+    <p>如无法加载，请刷新页面或联系我获取帮助。</p >
+</body>
+</html>
